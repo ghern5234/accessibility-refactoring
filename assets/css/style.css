@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Styling for the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Styling for the hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +76,7 @@ main {
     margin-left: 20px;
 }
 
+/* Styling for benefits aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,53 +88,25 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
+
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .subsection {
     margin-bottom: 20px;
@@ -150,20 +124,12 @@ main {
 
 
 
-.search-engine-optimization h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Styling for footer */
 
 footer {
     padding: 30px;
@@ -171,6 +137,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 
 footer h2 {
     font-size: 20px;
