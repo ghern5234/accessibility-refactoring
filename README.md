@@ -9,6 +9,9 @@ Provide a short description explaining the what, why, and how of your project. U
 - It solves the issue of having vague elements that are not user friendly for those using assistive technology such as screen readers.
 - Working on this project has shown me the prevelance and drawbacks of non-semantic HTML, and in turn the benefits and various types of sematnic HTML.
 
+Live site: https://ghern5234.github.io/accessibility-refactoring/
+
+/Users/georgehernandez/Downloads/Image 2-26-24 at 9.59 PM.jpeg
 
 
 ## Installation
