@@ -11,8 +11,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 Live site: https://ghern5234.github.io/accessibility-refactoring/
 
-/Users/georgehernandez/Downloads/Image 2-26-24 at 9.59 PM.jpeg
 
+![alt text](Screenshot.png)
 
 ## Installation
 
